@@ -1,1 +1,6 @@
-# Units-for-PascalABC.NET-Demo
+Какие модули содержит архив:
+* PABCSystem - для использования синтаксиса
+* NumLibABC - для запуска примера
+* __RedirectIOMode - для запуска с оболочкой
+* __RunMode - для запуска без оболочки
+* PABCExtensions - помогло мне скомпилировать NumLibABC
